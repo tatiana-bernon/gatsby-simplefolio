@@ -62,7 +62,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'tatiana.bernon@gmail.com',
 };
 
 // FOOTER DATA
@@ -81,12 +81,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/mtbernon/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/tatiana-bernon',
     },
   ],
 };
