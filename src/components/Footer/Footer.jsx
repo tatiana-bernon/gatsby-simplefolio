@@ -38,9 +38,9 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Tatiana Bernon
+          © {new Date().getFullYear()} - {'Tatiana Bernon '}
           <a href="https://github.com/tatiana-bernon" target="_blank" rel="noopener noreferrer">
-            Jacobo Martínez
+            || Full Stack Developer
           </a>
         </p>
 
