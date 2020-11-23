@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'pearing.jpeg',
     title: 'Pearing',
     info:
-      'This was my final project</a> as part of the EDA Bootcamp. My team and I collaborated in creating a website enabling developers to reach out to each other and schedule pair-programming session based on a specific topic of their choice.You can have access to the slide I created for our final Project Presentation',
+      'This was my final project as part of the EDA Bootcamp. My team and I collaborated in creating a website enabling developers to reach out to each other and schedule pair-programming session based on a specific topic of their choice.You can have access to the slide I created for our final Project Presentation',
     info2:
       'In this project we used for the front-end React.js , HTML,CSS and Bulma and for the Back-end Knex.js and SQLite3 in terms of db, In terms of authentication, authenticare was used.',
     url: 'https://drive.google.com/file/d/1EEneKW79h2VzrhblQh0IQAm0m9OCVEwl/view?usp=sharing',
