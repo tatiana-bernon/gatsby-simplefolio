@@ -4,7 +4,8 @@ This is my very first portfolio. While it was a need for me to create more visib
 
 It was not easy at the beginning to go through someone elses code and decipher it as well as break it to see how it worked and behaved, but it was a really interesting and rewarding exercises and as a reward a got to deploy my first portfolio, which I hope will give me a further little push in my work search.
 
-https://www.instagram.com/p/CHzAd8Hlh4U/?utm_source=ig_web_button_share_sheet
+![alt text](https://github.com/tatiana-bernon/gatsby-simplefolio/blob/ce69590450e63583a2dcb4ac6a847b336845fa57/src%2Fimages%2Fwheretofindmoihome.jpeg) 
+
 ## Features :dizzy:
 
 > Modern UI Design + Reveal Animations\
